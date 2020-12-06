@@ -39,7 +39,7 @@ cacheSolve <- function(x , ...) {
   
    t <- solve(x,...)
    x$set_inv(t)
-    ttass
+    t
   
    
      
